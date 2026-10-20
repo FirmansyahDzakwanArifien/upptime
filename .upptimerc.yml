@@ -2,12 +2,48 @@ owner: FirmansyahDzakwanArifien
 repo: upptime
 
 sites:
+  # Portfolio (cyphera.my.id)
   - name: Cyphera
     url: https://cyphera.my.id
+  - name: Portfolio CV
+    url: https://cyphera.my.id/cv/
+  - name: Portfolio Projects
+    url: https://cyphera.my.id/projects/
+  - name: Portfolio Labs
+    url: https://cyphera.my.id/labs/
+  - name: Portfolio Album
+    url: https://cyphera.my.id/album/
+  - name: Portfolio Milestone
+    url: https://cyphera.my.id/milestone/
+  - name: RSS Feed
+    url: https://cyphera.my.id/feed.xml
+  - name: security.txt
+    url: https://cyphera.my.id/.well-known/security.txt
+  - name: Blog (Hashnode)
+    url: https://blog.cyphera.my.id
+
+  # Projects
+  - name: Memoir
+    url: https://memoir.cyphera.my.id
+  - name: Si Ngacir (itch.io)
+    url: https://cyphera-game.itch.io/si-ngacir
+  - name: Si Ngacir Wiki
+    url: https://wiki-si-ngacir.cyphera.my.id/en/
+  - name: Varmintz
+    url: https://varmintz.cyphera.my.id
+
+  # Tools
   - name: Excalidraw
     url: https://excalidraw.cyphera.my.id
   - name: IT-Tools
     url: https://tools.cyphera.my.id
+  - name: Barcode Generator
+    url: https://barcode.cyphera.my.id
+  - name: SonarQube
+    url: https://sonarqube.cyphera.my.id
+  - name: TLDR
+    url: https://tldr.cyphera.my.id
+
   - name: Status Page
     url: https://status.cyphera.my.id
 
