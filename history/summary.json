@@ -184,19 +184,19 @@
     "url": "https://cyphera-game.itch.io/si-ngacir",
     "icon": "https://icons.duckduckgo.com/ip3/cyphera-game.itch.io.ico",
     "slug": "si-ngacir-itch-io",
-    "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "91.86%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.84%",
-    "time": 1485,
-    "timeDay": 4694,
-    "timeWeek": 1546,
-    "timeMonth": 1485,
-    "timeYear": 1485,
+    "status": "up",
+    "uptime": "96.66%",
+    "uptimeDay": "75.91%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
+    "time": 1398,
+    "timeDay": 3335,
+    "timeWeek": 1443,
+    "timeMonth": 1398,
+    "timeYear": 1398,
     "dailyMinutesDown": {
-      "2026-10-27": 117
+      "2026-10-27": 347
     }
   },
   {
